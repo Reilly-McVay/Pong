@@ -119,8 +119,8 @@ int main()
 		//End game when a player reaches 5 points
 		if ((P[0].Score == 5) || (P[1].Score == 5))
 		{
-			system("pause");
-			break;
+			if (getKey(' ')) { break; }
+			continue;
 		}
 
 		//Ball
