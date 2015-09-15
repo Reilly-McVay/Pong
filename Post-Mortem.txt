@@ -1,0 +1,32 @@
+Post-Mortem
+
+Goal:
+
+	Make Pong
+
+Challenges:
+
+	C++ sintax memorization
+	Submission to Github repository
+	Header Files
+
+Triumphs:
+
+	Completion of programming in less than 2 days
+	Didn't ask for help with anything coding related
+
+Failures:
+
+	Submission to Github repository
+	Header Files
+
+External tools and help:
+
+	Github
+	Terry - Solved Submission to Github repository
+	Esme - Solved Header Files
+
+Future growth opportunities and goals:
+
+	I plan to practice the use of Header Files
+	I Will probably be using Github for a long time
